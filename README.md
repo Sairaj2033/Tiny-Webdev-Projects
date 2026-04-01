@@ -1,4 +1,4 @@
-# 🌐 Tiny Webdev Projects
+# 🌐TINY WEBDEV PROJECTS
 
 This repository is a dedicated space for mini-projects developed while mastering modern web technologies. It serves as a professional record of my transition from foundational layouts to dynamic, logic-driven web applications.
 
