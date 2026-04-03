@@ -21,6 +21,7 @@ This repository is a dedicated space for mini-projects developed while mastering
 ---
  ### Visit Here 
    Spotify Clone Only frontend 👉 https://mini-webdev-projects-k26m.vercel.app/
+   Simons Game 👉 https://mini-webdev-projects.vercel.app/
 
 ### 🔧 Installation & Local Usage
 
